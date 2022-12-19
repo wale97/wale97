@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wale97
 - 👀 I’m interested in frontend, databases and new technologies
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on projects that will help me to learn faster
+- 💞️ I’m looking to collaborate on projects that will help me learn faster
 - 📫 How to reach me https://twitter.com/adewaleakanni97, On discord Wale97#0671
 
 <!---
